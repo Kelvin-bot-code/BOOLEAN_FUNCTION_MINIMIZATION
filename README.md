@@ -15,7 +15,11 @@ Hardware – PCs, Cyclone II , USB flasher
 **Software – Quartus prime**
 
 **Theory**
+# 1.
 ![WhatsApp Image 2025-03-26 at 13 57 23_413f3334](https://github.com/user-attachments/assets/e95b143e-8dca-4431-9f51-7585f5e1c0b0)
+# 2.
+![WhatsApp Image 2025-04-16 at 16 04 25_317b26b1](https://github.com/user-attachments/assets/7d7514ba-0086-4b27-af95-2da6d349e09b)
+
 **Procedure**
 
 1.	Type the program in Quartus software.
